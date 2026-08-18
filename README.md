@@ -78,7 +78,7 @@ Voici les technologies et bibliothèques utilisées pour construire ce projet :
 - **Pandas & Requests** : Requêtage de l'API OpenAgenda, nettoyage et manipulation des données tabulaires (pre-processing).
 - **python-dotenv** : Sécurisation des clés d'API hors du code source.
 
-## 👨 Auteur
+##  Auteur
 
 **YAD95**  
 Projet réalisé dans le cadre de la formation Data Engineer — OpenClassrooms
