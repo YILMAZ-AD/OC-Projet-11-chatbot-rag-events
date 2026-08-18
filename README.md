@@ -1,4 +1,4 @@
-#  Puls-Events : Assistant RAG de Recommandation Culturelle (Brest)
+# Chatbot assistant avec un RAG intégré pour des recommandations d’événements culturels (Brest)
 
 ##  Contexte du projet
 
