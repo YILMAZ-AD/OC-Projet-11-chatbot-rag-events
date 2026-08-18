@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "difficulte": "simple",
+    "question": "Quels événements sont prévus au Quartz à Brest ?",
+    "ground_truth": "il n'y a actuellement aucun événement prévu au Quartz."
+  },
+  {
+    "id": 2,
+    "difficulte": "simple",
+    "question": "Y a-t-il un concert de musique classique prévu cette semaine à Brest ?",
+    "ground_truth": " il n'y a aucun concert de musique classique de prévu "
+  },
+  {
+    "id": 3,
+    "difficulte": "simple",
+    "question": "Quelles expositions sont  visibles à Brest ?",
+    "ground_truth": "Voici  les expositions prévues à Brest : l'exposition 'Nature Double'  'Arrêt sur images', l'exposition sur 'les Compagnons de la Libération à l'Hôtel de Ville',  l'exposition 'Brest et l'Arsenal, 2 siècles de photographie'"
+  },
+  {
+    "id": 4,
+    "difficulte": "simple",
+    "question": "Existe-t-il des événements gratuits  à Brest ?",
+    "ground_truth": "Place au Vélo et La Nuit des conservatoires à Brest"
+  },
+  {
+    "id": 5,
+    "difficulte": "moyenne",
+    "question": "Quels événements sont adaptés aux enfants de moins de 10 ans ?",
+    "ground_truth": "  les événements adaptés aux enfants de moins de 10 ans 'Dans les petites oreilles' 'Les rendez-vous des 3 mois-3 ans'et la visite des coulisses de la Maison du Théâtre, accessible à partir de 8 ans."
+  },
+  {
+    "id": 6,
+    "difficulte": "moyenne",
+    "question": "recommande moi un événement culturel original à Brest?",
+    "ground_truth": "'L’Art du (faux) Goût' c'est  un atelier insolite avec un 'Concours de mauvaise foi' a la fin de l'événement"
+  },
+  {
+    "id": 7,
+    "difficulte": "moyenne",
+    "question": "des événements qui ont lieu au Conservatoire de Brest ?",
+    "ground_truth": "Voici le seul événement qui lieu au conservatoire de Brest :  'La Nuit des conservatoires à Brest' 16, rue du Château, Brest Vendredi 30 janvier, 17h30 "
+  },
+  {
+    "id": 8,
+    "difficulte": "complexe",
+    "question": "Tu peux me dire les concert de jazz et de rock disponible à brest ? .",
+    "ground_truth": "Voici un  concert rock 'Concert pop/rock avec Stellen' cependant il n'ya pas de concert de jazz  "
+  },
+  {
+    "id": 9,
+    "difficulte": "complexe",
+    "question": "Quel est l'événement le moins cher et le plus récent  à Brest ?",
+    "ground_truth": "voici l'événement le moins chere et le plus récent 'SAV Machine à coudre' 'gratuit'"
+  },
+  {
+    "id": 10,
+    "difficulte": "complexe",
+    "question": "Des événements qui sont accessibles aux personnes à mobilité réduite ?",
+    "ground_truth": "Voici les événements accessibles aux personnes à mobilité réduite 'Feu! Chatterton' 'Visite exceptionnelle en mer du port de Brest'"
+  },
+  {
+    "id": 11,
+    "difficulte": "piege_hors_perimetre",
+    "question": "Quel temps fait-il à Brest aujourd'hui ?",
+    "ground_truth": "Je suis une IA spécialisé dans les événement à Brest, je ne peux pas répondre à votre demande "
+  },
+  {
+    "id": 12,
+    "difficulte": "piege_hors_perimetre",
+    "question": "Quels sont les événements culturels à Paris ce week-end ?",
+    "ground_truth": "Je suis une IA spécialisé dans les événement à Brest,je ne peux pas répondre à votre demande "
+  },
+  {
+    "id": 13,
+    "difficulte": "piege_donnee_absente",
+    "question": "y'a t'il un évenement du rappeur Jul a brest ?",
+    "ground_truth": "il n'y a actuellement aucun événement prévue du rappeur Jul"
+  }
+]
