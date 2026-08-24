@@ -1,3 +1,5 @@
+🇫🇷 Français | readme in english 👉 [🇬🇧 English](README.en.md)
+
 # Chatbot assistant avec un RAG intégré pour des recommandations d’événements culturels (Brest)
 
 ##  Contexte du projet
